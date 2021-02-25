@@ -1,0 +1,5 @@
+Furkan Yanteri 
+Görseller img, stil-css dosyalarý "css" dosyasýndadýr.
+Anasayfa yani hakkýmda sayfasý "index.html" dir.
+
+...!!! Index.html sayfasýný çalýþtýrýnýz.
