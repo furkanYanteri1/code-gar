@@ -1,0 +1,4 @@
+mingw32-make yeterli
+Yiginlar.Txt doc klasorunde
+
+!)Cikmak icin -1 giriniz.
